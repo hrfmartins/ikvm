@@ -1,6 +1,6 @@
 # IKVM - Java Virtual Machine for .NET
 
-[![Nuget](https://img.shields.io/nuget/dt/IKVM)](https://www.nuget.org/packages/IKVM)
+[![Discord](https://img.shields.io/badge/Chat-on%20Discord-brightgreen)](https://discord.gg/MpzNd5Tk8P)
 [![](https://dcbadge.vercel.app/api/server/MpzNd5Tk8P)](https://discord.gg/MpzNd5Tk8P)
 
 
