@@ -1,6 +1,8 @@
 # IKVM - Java Virtual Machine for .NET
 
 [![Nuget](https://img.shields.io/nuget/dt/IKVM)](https://www.nuget.org/packages/IKVM)
+[![](https://dcbadge.vercel.app/api/server/MpzNd5Tk8P)](https://discord.gg/MpzNd5Tk8P)
+
 
 ## What is IKVM?
 
